@@ -8,3 +8,9 @@ This is an application built for multiple purposes related to stock prices that 
 * Display trends and moving average indicators for user input window
 * Display MACD and RSI lines inline to the stock history graph
 * Make a prediction of stock closing price for a future date (Forecasting)
+
+## Use
+Refer to the detailed [User Guide](https://github.com/unni-krrish/stock-forecasting-app/blob/main/User_Guide_Final.docx)
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/53073761/131273430-3309b4ce-2e8c-48bb-8515-b8c98851226f.png)
