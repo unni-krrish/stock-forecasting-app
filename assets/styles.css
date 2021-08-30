@@ -1,0 +1,28 @@
+.DateInput_input, .DateInput_input_1 {
+    height: 35px;
+    border-bottom: 0px;
+  }
+
+.mr-1, .btn, .btn-dark {
+    height: 38px;
+    line-height: 1;
+}
+
+.VirtualizedSelectOption {
+  color: black;
+}
+
+.DateInput_input__disabled {
+  background-color: rgb(200, 200, 200);
+}
+
+/*
+.Select-control {
+  height: 45px;
+}
+
+.Select--single>.Select-control .Select-value, .Select-placeholder 
+{
+    line-height: 40px;
+}
+*/
